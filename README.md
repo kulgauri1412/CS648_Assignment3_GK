@@ -1,2 +1,2 @@
-# CS648_Assignment3_GK
+# CS648 Assignment3
  
